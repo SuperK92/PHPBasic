@@ -9,7 +9,7 @@
       <label for="num1"></label>
       <input type="text" name="num1" value="" id="num1">
       <label for="num2"></label>
-      <input type="text" name="num2" value="" id="num1">
+      <input type="text" name="num2" value="" id="num2">
       <label for="operacion"></label>
       <select class="" name="operacion" id="operacion">
           <option value="Suma">Suma</option>
